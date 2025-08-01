@@ -7,9 +7,10 @@ Built for learning, not black boxes. Every line of code is backed by math and cl
 
 ## ✅ Algorithms Implemented
 
-- [x] Linear Regression
-- [x] Polynomial Regression
-- [x] Gradient Descent
+- [x] Linear Regression [Gradient Descent & Closed Form]
+- [x] Lasso Regression
+- [x] Ridge Regression
+- [x] Elastic Net Regression 
 
 ---
 
